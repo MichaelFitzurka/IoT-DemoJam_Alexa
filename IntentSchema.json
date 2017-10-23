@@ -1,0 +1,98 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "AreWeReadyIntent",
+      "samples": [
+        "if we are ready",
+        "if we are ready to go",
+        "if we're ready",
+        "if we're ready to go"
+      ],
+      "slots": []
+    },
+    {
+      "name": "DemoStatusIntent",
+      "samples": [
+        "for status of demo",
+        "for status of the demo",
+        "for the status of demo",
+        "for the status of the demo",
+        "for demo status",
+        "for the demo status"
+      ],
+      "slots": []
+    },
+    {
+      "name": "FlightCheckIntent",
+      "samples": [
+        "to conduct flight check",
+        "to conduct flight check on drone",
+        "to conduct flight check on the drone",
+        "to conduct flight checks",
+        "to conduct flight checks on drone",
+        "to conduct flight checks on the drone",
+        "to conduct flight test",
+        "to conduct flight test on drone",
+        "to conduct flight test on the drone",
+        "to conduct flight tests",
+        "to conduct flight tests on drone",
+        "to conduct flight tests on the drone",
+        "to conduct pre-flight check",
+        "to conduct pre-flight check on drone",
+        "to conduct pre-flight check on the drone",
+        "to conduct pre-flight checks",
+        "to conduct pre-flight checks on drone",
+        "to conduct pre-flight checks on the drone",
+        "to conduct pre-flight test",
+        "to conduct pre-flight test on drone",
+        "to conduct pre-flight test on the drone",
+        "to conduct pre-flight tests",
+        "to conduct pre-flight tests on drone",
+        "to conduct pre-flight tests on the drone"
+      ],
+      "slots": []
+    },
+    {
+      "name": "NotWhatIMeantIntent",
+      "samples": [
+        "that's not what I meant",
+        "that's not what I meant and you know it",
+        "that is not what I meant",
+        "that is not what I meant and you know it"
+      ],
+      "slots": []
+    },
+    {
+      "name": "SoundCheckIntent",
+      "samples": [
+        "for a sound check",
+        "for a sound test",
+        "for a voice check",
+        "for a voice test"
+      ],
+      "slots": []
+    },
+    {
+      "name": "StatusReportIntent",
+      "samples": [
+        "for a status report",
+        "for the status report",
+        "for a statistical report",
+        "for the statistical report"
+      ],
+      "slots": []
+    }
+  ]
+}
